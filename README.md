@@ -1,8 +1,11 @@
-- It must be emphasized that data-modelling need special attention simply because it is the foundation of Power BI "Reports".
-- A good data model helps us to get the right results. 
-- It also facilitates performance tuning, managing the storage constraints & row level security, authoring DAX, and in fact everything !
-- What is a data model? A data model defines all tables and HOW they are related to each other. 
-- There are two major data modelling styles. The simplest one is the "Star Schema" model consists of one or more FACT tables surrounded by any number of DIMENSIONAL tables. Note that Fact table contaons measures or items (of a business process) that can be aggregated, while a Dimension table contains descriptive attributes defining how a fact should roll up.
+# **_Data-Modelling needs special attention !_**
+- Data modelling is the foundation of Power BI "Reports".
+- A good data model helps us to get the right results ! 
+- A good data model also facilitates _performance tuning, managing the storage constraints & row level security, authoring DAX, and in fact everything !_
+  
+- **What is a data model?** A data model defines all tables & **HOW** they are related to each other. 
+- There are two major data modelling styles: **Star Schema** & **Snowflake Schema**.
+- **Star Schema** is the simplest one consists of one or more **Fact** tables surrounded by any number of **Dimensional** tables. Note that while **Fact** table contains **measures** or **items** (of a business process) that can be aggregated, a **Dimension** table contains **descriptive attributes** defining how a fact should roll up.
 
 
   
