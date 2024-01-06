@@ -1,4 +1,4 @@
-Above I have an excel data; A flat table including 19 fields & 675,368 rows of data
+Above I have an **excel data**; A flat table including **19 fields & 675,368 rows of data**:
 
 - ProductID
 - Date
