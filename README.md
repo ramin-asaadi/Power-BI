@@ -30,5 +30,7 @@ In order to model the data, I first distingush between facts and dimensions to b
 - DimCategory
 - DimCustomer
 
+
+
 ## Cleaning the Data
 Having the conceptual model, I first need to clean the data.  
