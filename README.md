@@ -30,7 +30,7 @@ In order to model the data, I first distingush between facts and dimensions to b
 - DimCategory
 - DimCustomer
 
-
+![ConceptualModel](https://github.com/ramin-asaadi/data-modelling-in-power-bi/assets/155740766/69527292-2316-4497-94b5-1501340e8958)
 
 ## Cleaning the Data
 Having the conceptual model, I first need to clean the data.  
