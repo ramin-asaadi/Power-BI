@@ -35,5 +35,5 @@ In order to model the data, I first distingush between facts and dimensions to b
 
 
 ## Cleaning the Data
-Having the conceptual model, I first need to clean the data.  
+Having the conceptual model, we now need to clean the data.  
 
