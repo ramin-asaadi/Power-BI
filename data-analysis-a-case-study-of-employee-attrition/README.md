@@ -1,6 +1,8 @@
 ## IBM HR Atrrition Case Study
 dataset includes 35 fields and 1470 rows/observation.
-### Why do employees quit?
-which factors influence employees decision to quit?
-### Eploratory data analysis
+### Question: Why do employees quit?
+### (1) Eploratory data analysis
+- Which factors influence employees decision to quit?
+### (2) Modelling
+### (3) Recommendation
 
